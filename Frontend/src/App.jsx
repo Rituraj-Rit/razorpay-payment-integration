@@ -4,7 +4,7 @@ import "./App.css";
 import PaymentButton from "./PaymentButton";
 
 const sampleProduct = {
-  _id: "6ac2830e91abe6250c15042d",
+  _id: "afb3egdfshdg", // Use the RAZORPAY_KEY_ID like -> "rzp_test_1DP5mmOlF5G5ag"
   image:
     "https://images.unsplash.com/photo-1779825457817-421102045350?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   title: "test_title",
